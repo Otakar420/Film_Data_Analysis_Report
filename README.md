@@ -11,16 +11,16 @@ Welcome to the Film Data Analysis Report! This Power BI report provides a compre
 
 ## Film Data Analysis
 
-- **Description**: An overview of the dataset, including key statistics such as the total number of movies and average budget. Contact information and a link to the dataset source are also provided.
+- An overview of the dataset, including key statistics such as the total number of movies and average budget. Contact information and a link to the dataset source are also provided.
 
 ## Overview of Basic Information
 
-- **Contents**: Insights into the film dataset, focusing on genre distribution, yearly production trends, and the relationship between budget and revenue.
+- Insights into the film dataset, focusing on genre distribution, yearly production trends, and the relationship between budget and revenue.
 
 ## Performance and Popularity of Films
 
-- **Contents**: Analysis of film performance, including revenue, budget comparisons, popularity trends, and average ratings over time.
+- Analysis of film performance, including revenue, budget comparisons, popularity trends, and average ratings over time.
 
 ## Production Analysis
 
-- **Contents**: Examination of production metrics such as average film length by genre, top film-producing countries, production companies, and directors based on the number of films produced.
+- Examination of production metrics such as average film length by genre, top film-producing countries, production companies, and directors based on the number of films produced.
